@@ -103,7 +103,7 @@ $(window).resize(function(){
 date_default_timezone_set("America/Bogota");
 $dbhost="localhost";
 $dbuser="root";
-$dbpass="12345678";
+$dbpass="";
 $dbname="bdunad_301127_41";
 
 

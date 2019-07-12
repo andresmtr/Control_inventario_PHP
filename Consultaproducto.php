@@ -100,7 +100,7 @@ $(window).resize(function(){
  <?php
 $servername = "localhost";
 $username = "root";
-$password = "12345678";
+$password = "";
 $dbname = "bdunad_301127_41";
 $codigo = $_POST['id'];
 
