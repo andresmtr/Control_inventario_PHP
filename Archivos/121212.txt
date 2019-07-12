@@ -1,0 +1,7 @@
+
+            Codigo: 121212
+            Nombre: And
+            Peso: 86
+            Marca: And
+            Fabricante: And
+            

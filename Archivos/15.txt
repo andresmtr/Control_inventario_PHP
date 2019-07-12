@@ -1,0 +1,7 @@
+
+            Codigo: 15
+            Nombre: Triana
+            Peso: 56
+            Marca: Reina
+            Fabricante: Reina
+            

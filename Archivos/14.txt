@@ -1,0 +1,7 @@
+
+            Codigo: 14
+            Nombre: Andres
+            Peso: 77
+            Marca: Triana
+            Fabricante: Triana
+            
