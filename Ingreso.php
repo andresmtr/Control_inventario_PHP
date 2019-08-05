@@ -95,7 +95,7 @@ $(window).resize(function(){
     <br>
     <br>
     <br>
-      <form role="form" action="Insertproducto.php" method="POST">
+      <form role="form" action="insertproducto.php" method="POST">
 
             
             Código del producto: <br>

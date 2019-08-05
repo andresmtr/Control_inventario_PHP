@@ -104,7 +104,7 @@ $password = "";
 $dbname = "bdunad_301127_41";
 $codigo = $_POST['id'];
 
-            $link=mysqli_connect("localhost","root","12345678","bdunad_301127_41");
+            $link=mysqli_connect("localhost","root","","bdunad_301127_41");
             mysqli_select_db($link, $dbname) or die ("Error al conectar a la base de Datos");
             $result = mysqli_query($link, "SELECT * FROM Producto WHERE Codigo = '$codigo'");
 
